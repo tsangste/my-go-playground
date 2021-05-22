@@ -4,7 +4,7 @@
     <working_directory value="$PROJECT_DIR$" />
     <kind value="DIRECTORY" />
     <directory value="$PROJECT_DIR$" />
-    <filePath value="$PROJECT_DIR$/../my-go-playground|$PROJECT_DIR$/main.go" />
+    <filePath value="$PROJECT_DIR$/../my-go-playground|$PROJECT_DIR$/main" />
     <method v="2" />
   </configuration>
 </component>
